@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temperature com.example.gideon.temperatureconverter.MainActivity.Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_a_temperature_value">Enter a temperature value</string>
+    <string name="to_celcius">To celcius</string>
+    <string name="to_fahreinheit">To fahreinheit</string>
+    <string name="convert">Convert</string>
+    <string name="convert_hint">convert</string>
+</resources>
