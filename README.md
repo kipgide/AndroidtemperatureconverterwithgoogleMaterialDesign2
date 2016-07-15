@@ -2,4 +2,6 @@
 This project demonstrates Google material design in Android app development 
 
 This a simple Android application that demonstrates Google own material design in mobile development.
-You can add your own modification. I'll be happy if notified. Thanks
+FOR assignment Comp 407 
+Gideon Kiplagat
+S13/20870/12
